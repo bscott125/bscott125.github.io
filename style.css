@@ -1,0 +1,13 @@
+.text{
+	color: white;
+	text-align: center;
+}
+
+
+.synopsis{
+	width: 1200px;
+	height: 800px;
+	background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(./assets/sean-lim-NPlv2pkYoUA-unsplash.jpg);
+	background-size: cover;
+}
+
